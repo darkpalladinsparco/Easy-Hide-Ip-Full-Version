@@ -234,3 +234,6 @@ This repository serves as the official landing page for Easy Hide IP. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Easy Hide IP today!**
+
+---
+**Last updated:** 2026-09-08 01:03:26 UTC
