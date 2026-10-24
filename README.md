@@ -236,4 +236,4 @@ This repository serves as the official landing page for Easy Hide IP. The softwa
 **Get the most recent version of Easy Hide IP today!**
 
 ---
-**Last updated:** 2026-10-24 07:03:40 UTC
+**Last updated:** 2026-10-24 12:32:38 UTC
